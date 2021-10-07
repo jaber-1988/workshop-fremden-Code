@@ -9,11 +9,11 @@ img {
     max-width:1500px
 }
 .w3-half img {
-    width:80%
+    width:60%;
 }
 #about img {
-    width:300 ;
-    height:300;
+    width:300 px ;
+    height:300 px;
 }
 form {
     margin:auto;
