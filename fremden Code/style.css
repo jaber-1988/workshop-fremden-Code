@@ -1,12 +1,12 @@
 body 
 {
-    font-family: "Raleway", Arial, sans-serif
+    font-family: "Raleway", Arial, sans-serif;
 }
 img {
-    margin-bottom: -8px
+    margin-bottom: -8px;
 }
 .contiener {
-    max-width:1500px
+    max-width:1500px;
 }
 .w3-half img {
     width:60%;
